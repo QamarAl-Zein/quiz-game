@@ -1,0 +1,13 @@
+C:\Users\Asus\OneDrive\Desktop\QuizGAme\bin\Debug\QuizGAme.exe.config
+C:\Users\Asus\OneDrive\Desktop\QuizGAme\bin\Debug\QuizGAme.exe
+C:\Users\Asus\OneDrive\Desktop\QuizGAme\bin\Debug\QuizGAme.pdb
+C:\Users\Asus\OneDrive\Desktop\QuizGAme\obj\Debug\QuizGAme.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\QuizGAme\obj\Debug\QuizGAme.Form1.resources
+C:\Users\Asus\OneDrive\Desktop\QuizGAme\obj\Debug\QuizGAme.Game.resources
+C:\Users\Asus\OneDrive\Desktop\QuizGAme\obj\Debug\QuizGAme.Loading.resources
+C:\Users\Asus\OneDrive\Desktop\QuizGAme\obj\Debug\QuizGAme.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\QuizGAme\obj\Debug\QuizGAme.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\QuizGAme\obj\Debug\QuizGAme.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\QuizGAme\obj\Debug\QuizGAme.exe
+C:\Users\Asus\OneDrive\Desktop\QuizGAme\obj\Debug\QuizGAme.pdb
+C:\Users\Asus\OneDrive\Desktop\QuizGAme\obj\Debug\QuizGAme.Score.resources
